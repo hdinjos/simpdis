@@ -1,0 +1,33 @@
+/*@import "zero.css";*/
+* {
+  margin: 0;
+}
+
+.top-wrapper {
+  padding-top: 180px;
+  padding-bottom: 100px;
+  color: #eee;
+  background-image: url(../img/con_top.png);
+  background-size: cover;
+}
+
+.top-wrapper h1 {
+  opacity: 0.7;
+  font-size: 45px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+}
+
+.top-wrapper p {
+  opacity: 0.7;
+  margin-bottom: 3px;
+}
+
+.container {
+  width: 1170px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+

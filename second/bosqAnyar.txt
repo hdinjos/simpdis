@@ -1,0 +1,7 @@
+new:
+in div = background-image: url (url_img);
+in div = background-size: cover;
+in div = margin: 0 auto; must width declare
+opacity = 0.1 to 1
+letter-spacing (letter distance)
+
