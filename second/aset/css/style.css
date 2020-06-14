@@ -31,3 +31,30 @@
   margin-right: auto;
 }
 
+.btn-wrapper {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.btn-wrapper p {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.btn {
+  padding: 12px 24px;
+  opacity: 0.8;
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  border: 1px solid #fff;
+}
+
+.signup { background-color: #239b76; }
+
+.facebook {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+
+.twitter { background-color: #55acee; }
