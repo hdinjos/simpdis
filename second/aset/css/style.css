@@ -3,11 +3,13 @@
   margin: 0;
 }
 
+a { text-decoration: none; }
+
 .top-wrapper {
   padding-top: 180px;
   padding-bottom: 100px;
-  color: #000;
-  background-image: url(../img/bp.png);
+  color: #FF9800;
+  background-image: url(../img/koding_uye.jpeg);
   background-size: cover;
   text-align: center;
 }
@@ -46,7 +48,6 @@
   padding: 12px 24px;
   opacity: 0.8;
   color: #000;
-  text-decoration: none;
   display: inline-block;
   border-radius: 25px;
 }
@@ -65,3 +66,27 @@
 .twitter { background-color: #55acee; }
 
 .fab { margin-right: 5px; }
+
+header {
+  height: 65px;
+  width: 100%;
+  background-color: rgba(34,49,52,0.9);
+}
+
+.logo {
+  width: 124px;
+  margin-top: 20px;
+}
+
+.header-left {
+  float: left;
+}
+
+.header-right {
+  background-color: rgba(255,255,255,0.3);
+  float: right;
+}
+
+.header-right:hover {
+  background-color: rgba(255,255,255,0.5);
+}
