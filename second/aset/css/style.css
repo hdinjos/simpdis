@@ -74,8 +74,15 @@ header {
 }
 
 .logo {
-  width: 124px;
-  margin-top: 20px;
+  width: 250px;
+  font-size: 30px;
+  margin-top: 5px;
+  color: #fff;
+}
+.logo span {
+  color: green;
+  padding-left:5px;
+  font-size: 40px;
 }
 
 .header-left {
@@ -99,3 +106,17 @@ header {
   color: #fff;
   display: block;
 }
+
+.lesson-wrapper {
+  height: 500px;
+  padding-bottom: 80px;
+  background-color: #f7f7f7;
+}
+
+.heading {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  color: #5f5d60;
+}
+
+.heading h2 { font-weight: normal; }
