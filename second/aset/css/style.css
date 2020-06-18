@@ -159,3 +159,9 @@ header {
   cursor: pointer;
   box-shadow: 0 5px 15px #1a7940;
 }
+
+.btn:active {
+  box-shadow: none;
+  position: relative;
+  top: 7px;
+}
