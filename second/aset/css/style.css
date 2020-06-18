@@ -160,8 +160,26 @@ header {
   box-shadow: 0 5px 15px #1a7940;
 }
 
-.btn:active {
+.message:active {
   box-shadow: none;
   position: relative;
   top: 7px;
 }
+
+footer { padding-top: 20px;  }
+
+footer img {
+  width: 125px;
+}
+
+footer p {
+  color: #b3aeb5;
+  font-size: 12px;
+}
+
+footer h2 { color: #868686; }
+
+footer span {
+  font-size: 30px;
+  color: green;
+}`
